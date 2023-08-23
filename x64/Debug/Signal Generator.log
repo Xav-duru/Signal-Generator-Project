@@ -1,0 +1,82 @@
+﻿  main.cpp
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(3,6): error C2653: 'CDSG3000_DEMO_VCDlg' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(3,38): error C2065: 'CString' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(3,46): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'strAddr'
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(4,1): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(4,1): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(38,6): error C2653: 'CDSG3000_DEMO_VCDlg' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(38,37): error C2065: 'CString' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(38,45): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'strAddr'
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(40,1): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(40,1): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(74,6): error C2653: 'CDSG3000_DEMO_VCDlg' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(77,2): error C2065: 'ViStatus' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(77,11): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'status'
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(77,11): error C2065: 'status' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(78,2): error C2065: 'ViSession' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(78,12): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'defaultRM'
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(78,12): error C2065: 'defaultRM' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(79,2): error C2065: 'ViString' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(79,11): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'expr'
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(79,11): error C2065: 'expr' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(80,2): error C2065: 'ViPFindList' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(80,14): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'findList'
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(80,14): error C2065: 'findList' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(81,2): error C2065: 'ViPUInt32' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(81,12): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'retcnt'
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(81,12): error C2065: 'retcnt' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(82,2): error C2065: 'ViChar' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(82,9): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'instrDesc'
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(82,9): error C2065: 'instrDesc' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(83,2): error C2065: 'CString' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(83,10): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'strSrc'
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(83,10): error C2065: 'strSrc' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(84,2): error C2065: 'CString' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(84,10): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'strInstr'
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(84,10): error C2065: 'strInstr' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(87,2): error C2065: 'status' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(87,28): error C2065: 'defaultRM' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(87,11): error C3861: 'viOpenDefaultRM' : identificateur introuvable
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(88,6): error C2065: 'status' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(88,15): error C2065: 'VI_SUCCESS' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(91,3): error C3861: 'MessageBox' : identificateur introuvable
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(94,9): error C2065: 'instrDesc' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(94,2): error C3861: 'memset' : identificateur introuvable
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(96,2): error C2065: 'status' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(96,22): error C2065: 'defaultRM' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(96,33): error C2065: 'expr' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(96,39): error C2065: 'findList' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(96,49): error C2065: 'retcnt' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(96,57): error C2065: 'instrDesc' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(96,11): error C3861: 'viFindRsrc' : identificateur introuvable
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(97,20): error C2065: 'retcnt' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(100,3): error C2065: 'strSrc' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(100,23): error C2065: 'instrDesc' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(101,14): error C2065: 'strSrc' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(102,5): error C2039: 'Sleep' n'est pas membre de '`global namespace''
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(102,5): error C3861: 'Sleep' : identificateur introuvable
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(103,13): error C2065: 'strSrc' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(103,22): error C2065: 'strInstr' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(106,3): error C2065: 'strInstr' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(107,7): error C2065: 'strInstr' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(110,4): error C2065: 'm_strInstrAddr' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(110,21): error C2065: 'strSrc' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(114,3): error C2065: 'status' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(114,24): error C2065: 'findList' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(114,34): error C2065: 'instrDesc' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(114,12): error C3861: 'viFindNext' : identificateur introuvable
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(118,3): error C3861: 'MessageBox' : identificateur introuvable
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(120,2): error C3861: 'UpdateData' : identificateur introuvable
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(123,6): error C2653: 'CDSG3000_DEMO_VCDlg' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(126,2): error C3861: 'UpdateData' : identificateur introuvable
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(127,6): error C2065: 'm_strInstrAddr' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(129,3): error C3861: 'MessageBox' : identificateur introuvable
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(131,13): error C2065: 'm_strInstrAddr' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(131,29): error C2065: 'm_strCommand' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(132,2): error C2065: 'm_strResult' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(133,2): error C3861: 'UpdateData' : identificateur introuvable
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(136,6): error C2653: 'CDSG3000_DEMO_VCDlg' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(139,2): error C3861: 'UpdateData' : identificateur introuvable
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(140,12): error C2065: 'm_strInstrAddr' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(140,29): error C2065: 'm_strResult' : identificateur non déclaré
+C:\Users\33667\OneDrive - ESEO\Bureau\ESEO\Suède\Percy Roc\code_test_RIGOL\Signal Generator\main.cpp(141,2): error C3861: 'UpdateData' : identificateur introuvable
